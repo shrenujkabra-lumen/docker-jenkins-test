@@ -36,7 +36,7 @@
 	          <manifest>
 	            <addClasspath>true</addClasspath>
 	            <classpathPrefix>lib/</classpathPrefix>
-	            <mainClass>com.jenkintest.docker_jenkins_test</mainClass>
+	            <mainClass>com.jenkintest.docker_jenkins_test.App</mainClass>
 	          </manifest>
         </archive>
       </configuration>  
