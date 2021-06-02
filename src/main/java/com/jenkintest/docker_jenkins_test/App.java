@@ -1,9 +1,6 @@
 package com.jenkintest.docker_jenkins_test;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
